@@ -1,0 +1,1 @@
+id,date,cases,deaths,name_fr,name_en
