@@ -1,5 +1,5 @@
-# Covid-List
-[![NPM](https://img.shields.io/github/license/pedrorebello/Covid-List)](https://github.com/pedrorebello/Covid-List/blob/main/LICENSE) 
+# Covid List
+[![NPM](https://img.shields.io/github/license/pedrorebello/covidlist)](https://github.com/pedrorebello/covidlist/blob/main/LICENSE) 
 
 ## About the project
 
