@@ -1,0 +1,5 @@
+"makefile copy"
+
+/.vscode
+
+*.exe
